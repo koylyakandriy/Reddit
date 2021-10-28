@@ -13,7 +13,5 @@
 - cd reddit-server and yarn && yarn watch && yarn dev
 - cd reddit-web and yarn && yarn dev
 
-## Project Screenshot:
-![](../../../../../var/folders/vj/tn4vrf7141sgy386smsf_mb9f7_mlg/T/TemporaryItems/NSIRD_screencaptureui_M7YmPo/Screenshot 2021-10-27 at 10.27.22.png)
-
+## Project Instruction:
 **[Watch Full video](https://www.youtube.com/watch?v=I6ypD7qv3Z8&list=PL6L58FFxhqXFuq-K7Y4yqhJrf93c4-ejm&index=26)**
